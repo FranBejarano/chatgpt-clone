@@ -46,7 +46,7 @@ To run this application locally, follow these steps:
    npm run start:backend
    ```
 
-89 Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
+9. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Usage
 
