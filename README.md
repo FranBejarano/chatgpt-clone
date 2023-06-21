@@ -1,6 +1,4 @@
-Sure! Here's an example README.md file for the project based on the provided files:
-
-# AI Chat Application
+# ChatGPT Clone
 
 This project is an AI chat application that leverages the power of Generative AI using OpenAI's GPT-3.5 model. The application allows users to have interactive conversations with the AI model, generating responses based on user inputs.
 
