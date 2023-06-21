@@ -8,7 +8,7 @@ This project is an AI chat application that leverages the power of Generative AI
 
 - React.js
 - Node.js
-- TypeScript
+- JavaScript
 - OpenAI API
 
 ## Installation
